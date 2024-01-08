@@ -23,7 +23,7 @@ Install PyTorch 1.1 and other dependencies (e.g., torchvision, visdsom, dominate
 
 ### CUT++ Training and Test
 
-The dataset is unzipped at `./datasets/jsl/`.
+The dataset used for this project can be downloaded [here](https://jbox.sjtu.edu.cn/l/q1aOGX). As an example, it can be unzipped at `./datasets/jsl/`.
 
 - To view training results and loss plots, run `python -m visdom.server` and click the URL http://localhost:8097.
 
@@ -31,6 +31,7 @@ The dataset is unzipped at `./datasets/jsl/`.
 ```bash
 python train.py --dataroot ./datasets/jsl --name res9_2head_200 --CUT_mode CUT
 ```
+The pretrained checkpoint can be downloaded [here](https://jbox.sjtu.edu.cn/l/Y1euDb).
 
 - Test the CUT++ model:
 ```bash
