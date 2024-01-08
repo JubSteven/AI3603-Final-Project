@@ -1,6 +1,6 @@
 # CUT++: Unpaired Video-to-Image Translation
 
-> [Pengxiang Zhu](https://jubsteven.github.io/), [Runze Guo]() , [Shengyang Zhou]()
+> [Pengxiang Zhu](https://jubsteven.github.io/), [Runze Guo](https://github.com/Alanze) , [Shengyang Zhou](https://github.com/Arrebol-logos)
 
 This repository contains the code and report for the project of AI3603 (Theory and Applications of Artificial Intelligence). We build our model for image style transfer on the renowned [CUT](https://github.com/taesungp/contrastive-unpaired-translation) model.
 
